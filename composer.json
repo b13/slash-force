@@ -1,0 +1,18 @@
+{
+	"name": "b13/slash-force",
+	"type": "typo3-cms-extension",
+	"description": "Forces a slash on URLs by redirecting.",
+	"require": {
+		"typo3/cms-core": "^11.5 || ^12.4"
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "slash_force"
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"B13\\SlashForce\\": "Classes/"
+		}
+	}
+}
