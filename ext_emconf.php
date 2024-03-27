@@ -8,7 +8,7 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Daniel Goerz',
     'author_email' => 'typo3@b13.com',
     'author_company' => 'b13 GmbH',
-    'version' => '1.0.0',
+    'version' => '1.0.1',
     'constraints' => [
         'depends' => [
             'typo3' => '>=11.5.0',
